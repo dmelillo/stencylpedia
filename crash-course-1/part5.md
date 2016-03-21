@@ -5,7 +5,7 @@ Click the **Test Game** button in the top toolbar to give your game a try.
 
 ![Test Game](https://raw.githubusercontent.com/Stencyl/stencylpedia/master/crash-course-1/images/crash-course-57.png)
 
-You should be able to walk with the left and right arrow keys and jump with “z”. 
+You should be able to walk with the left and right arrow keys and jump with z. 
 
 Try pushing the Clown Actors around and jumping on them. If you fall off the screen, the Scene should reload.
 
